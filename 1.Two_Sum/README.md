@@ -9,5 +9,5 @@ Two_pass_Hash_Table.cpp: two iterations, In the first iteration, add each elemen
 <br />
 Time complexity: O(n)
 <br />
-Space complexity: O(n), There is no extra space needed.
+Space complexity: O(n)
 
